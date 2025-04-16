@@ -1,6 +1,7 @@
 # googlesearch
 
-> **DISCLAIMER:** This fork was entirely created by AI with no human review. While efforts were made to ensure quality, there is no guarantee of correctness, security, or performance. Use at your own risk.
+# ⚠️ DISCLAIMER
+> This fork was entirely created by AI with no human review. While efforts were made to ensure quality, there is no guarantee of correctness, security, or performance. Use at your own risk.
 
 googlesearch is a Python library for searching Google, easily. This version uses aiohttp and BeautifulSoup4 to scrape Google.
 
